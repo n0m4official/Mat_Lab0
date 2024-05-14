@@ -1,0 +1,7 @@
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Unit 0\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Unit 0\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Unit 0\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Unit 0\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Unit 0\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Unit 0\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Unit 0\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
